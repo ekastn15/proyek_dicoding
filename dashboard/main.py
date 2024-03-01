@@ -20,7 +20,7 @@ max_date = all_df["order_approved_at"].max()
 
 # Sidebar
 with st.sidebar:
-    st.image("https://github.com/dicodingacademy/assets/raw/main/logo.png")
+    st.image("https://drive.google.com/file/d/18WPrT1KIWmb9eYtSKf0feuqC17twZa7j/view?usp=sharing")
     # Title
     st.title("Eka Sulistyaningsih")
 
@@ -79,7 +79,7 @@ with col2:
 
 fig, ax = plt.subplots(nrows=1, ncols=2, figsize=(45, 25))
 
-colors = ["#068DA9", "#D3D3D3", "#D3D3D3", "#D3D3D3", "#D3D3D3"]
+colors = ["#3182bd", "#3182bd", "#3182bd", "#3182bd", "#3182bd"]
 
 sns.barplot(x="order_item_id", y="product_category_name_english", data=main_df.groupby("product_category_name_english")["order_item_id"].count().reset_index().sort_values(by="order_item_id", ascending=False).head(5), palette=colors, ax=ax[0])
 ax[0].set_ylabel(None)
@@ -91,7 +91,7 @@ ax[0].tick_params(axis ='x', labelsize=30)
 sns.barplot(x="order_item_id", y="product_category_name_english", data=main_df.groupby("product_category_name_english")["order_item_id"].count().reset_index().sort_values(by="order_item_id").head(5), palette=colors, ax=ax[1])
 ax[1].set_ylabel(None)
 ax[1].set_xlabel("Number of Sales", fontsize=30)
-ax[1].invert_xaxis()
+ax[1].invert_yaxis() 
 ax[1].yaxis.set_label_position("right")
 ax[1].yaxis.tick_right()
 ax[1].set_title("Penjualan Sedikit", loc="center", fontsize=50)
