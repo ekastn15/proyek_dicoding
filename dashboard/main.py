@@ -20,7 +20,7 @@ max_date = all_df["order_approved_at"].max()
 
 # Sidebar
 with st.sidebar:
-    st.image("dashboard/undraw_Stripe_payments_re_chlm")
+    st.image("dashboard/undraw_Stripe_payments_re_chlm.png")
     # Title
     st.title("Eka Sulistyaningsih")
 
