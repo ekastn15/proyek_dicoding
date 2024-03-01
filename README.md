@@ -1,5 +1,5 @@
 # Proyek Dicoding Analisis
-!(dashboard/dashboard.png)
+![](dashboard/dashboard.png)
 ## Deskripsi
 Proyek ini bertujuan untuk melakukan analisis data menggunakan Streamlit, sebuah framework Python untuk membuat aplikasi web interaktif dengan mudah. Analisis dilakukan terhadap dataset E-Commerce Public. Menampilkan dua visualisasi yakni:
 1. Daily Order: mengetahui total orders dan revenue
