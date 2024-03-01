@@ -20,7 +20,7 @@ max_date = all_df["order_approved_at"].max()
 
 # Sidebar
 with st.sidebar:
-    st.image("https://drive.google.com/file/d/18WPrT1KIWmb9eYtSKf0feuqC17twZa7j/view?usp=sharing")
+    st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnbcindonesia.com%2Ftech%2F20220602154502-37-343830%2Fini-dia-raja-e-commerce-di-asia-tenggara-bisa-tebak&psig=AOvVaw3PsPcMID5mKWHa5dJFBeWj&ust=1709372882664000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDkla7k0oQDFQAAAAAdAAAAABAJ")
     # Title
     st.title("Eka Sulistyaningsih")
 
