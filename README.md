@@ -1,5 +1,5 @@
 # Proyek Dicoding Analisis
-![E- Commerce](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tokopedia.com%2Fabout%2Fnews&psig=AOvVaw0UoNGb6i74WVkznvRJF22a&ust=1709371735034000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICb0Irg0oQDFQAAAAAdAAAAABAE)
+![Streamlit App](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tokopedia.com%2Fabout%2Fnews&psig=AOvVaw0UoNGb6i74WVkznvRJF22a&ust=1709371735034000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICb0Irg0oQDFQAAAAAdAAAAABAE)
 ## Deskripsi
 Proyek ini bertujuan untuk melakukan analisis data menggunakan Streamlit, sebuah framework Python untuk membuat aplikasi web interaktif dengan mudah. Analisis dilakukan terhadap dataset E-Commerce Public. Menampilkan dua visualisasi yakni:
 1. Daily Order: mengetahui total orders dan revenue
@@ -18,7 +18,7 @@ Melalui lokal
     ```
 4. Buka browser web dan navigasikan ke alamat yang ditampilkan di terminal (biasanya http://localhost:8501) untuk melihat aplikasi Streamlit.
 Melalui Webiste
-Bisa akses di [Proyek Analisis](https://pages.github.com/](https://proyekdicoding-shs3qd2y4jg7w7b8leeer2.streamlit.app/).
+Bisa akses di [Proyek Analisis](https://proyekdicoding-shs3qd2y4jg7w7b8leeer2.streamlit.app/).
 ## Cara Menjalankan file .ipynb
 1. buat folder drive
 3. upload file .ipynb dan folder data ke folder drive yang sudah dibuat
