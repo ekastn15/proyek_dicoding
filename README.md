@@ -1,5 +1,5 @@
 # Proyek Dicoding Analisis
-![Streamlit App](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tokopedia.com%2Fabout%2Fnews&psig=AOvVaw0UoNGb6i74WVkznvRJF22a&ust=1709371735034000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICb0Irg0oQDFQAAAAAdAAAAABAE)
+!(dashboard/dashboard.png)
 ## Deskripsi
 Proyek ini bertujuan untuk melakukan analisis data menggunakan Streamlit, sebuah framework Python untuk membuat aplikasi web interaktif dengan mudah. Analisis dilakukan terhadap dataset E-Commerce Public. Menampilkan dua visualisasi yakni:
 1. Daily Order: mengetahui total orders dan revenue
