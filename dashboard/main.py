@@ -37,7 +37,7 @@ main_df = all_df[(all_df["order_approved_at"] >= str(start_date)) &
                  (all_df["order_approved_at"] <= str(end_date))]
 
 # Header
-st.header("E-Commerce Dashboard Dicoding")
+st.markdown('<i class="fa fa-shopping-cart"></i> <h1 style="display:inline;">E-Commerce Dashboard Dicoding</h1>', unsafe_allow_html=True)
 
 # Daily Orders
 st.subheader("Daily Orders")
